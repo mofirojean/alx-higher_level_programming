@@ -26,6 +26,7 @@ Prototypes for functions written in this project:
 | `4-print_square.py`      | `def print_square(size):`                    |
 | `5-text_indentation.py`  | `def text_indentation(text):`                |  
 
+
 ## Tasks :page_with_curl:
 
 * **0. Integers addition**
