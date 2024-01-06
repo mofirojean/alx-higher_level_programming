@@ -30,7 +30,7 @@ class Rectangle:
     @property
     def height(self):
         """Get/set the height of the rectangle."""
-        return self.__height
+        self.__height
 
     @height.setter
     def height(self, value):
@@ -50,7 +50,7 @@ class Rectangle:
             return 0
         return ((self.__width + self.__height) * 2)
 
-    def __str__(self):
+    def __str__(self) -> str:
         """Return the printable representation of the Rectangle.
 
         Represents the rectangle with the # character.
@@ -60,7 +60,7 @@ class Rectangle:
         rect = ""
         for i in range(self.__height):
             for j in range(self.__width):
-               rect += "#"
+                rect += "#"
             if i != self.__height - 1:
-               rect += "\n"
+                rect += "\n"
         return rect
