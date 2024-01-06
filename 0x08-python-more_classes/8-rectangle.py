@@ -5,7 +5,7 @@
 class Rectangle:
     """Represent a rectangle."""
     number_of_instances = 0
-    print_symbol = '#'
+    print_symbol = "#"
 
     def __init__(self, width=0, height=0):
         """Initialize a new Rectangle.
@@ -80,7 +80,7 @@ class Rectangle:
         """Print a message for every deletion of a Rectangle."""
         print("Bye rectangle...")
         type(self).number_of_instances -= 1
-																																																												
+
     @staticmethod
     def bigger_or_equal(rect_1, rect_2):
         if not isinstance(rect_1, Rectangle):
@@ -90,4 +90,3 @@ class Rectangle:
         if rect_1.area() < rect_2.area():
             return rect_2
         return rect_1
-        
