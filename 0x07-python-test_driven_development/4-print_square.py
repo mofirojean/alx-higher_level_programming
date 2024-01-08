@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module to print the square given a size."""
+"""Define a print-square function."""
 
 def print_square(size):
     """Prints a square

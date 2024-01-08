@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module to say the first and lastname."""
+"""Define a say-my-name function."""
 
 def say_my_name(first_name, last_name=""):
     """Prints the first name and last name

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module that adds two integers"""
+"""Define an add-integer function."""
 
 def add_integer(a, b=98):
     """A function that adds two integers
