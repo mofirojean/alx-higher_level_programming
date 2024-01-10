@@ -273,7 +273,6 @@ print("Python")
 ```
 ![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/70f9ea0e969dfcc407a7427aba4786d87a920494.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220628T145801Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=28cc1540430447d619d0bde0fd16f57d694de58ae054aad768cb3f0b018d4095)
 
-
 * **34. Clear strings**
   * [106-line1.txt](./106-line1.txt): How many `str` objects are created by the execution of the first line in this script?
   * [106-line2.txt](./106-line2.txt): How many `str` objects are created by the execution of the second line in this script?
