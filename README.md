@@ -1,2 +1,2 @@
 # alx-higher_level_programming
-Alx
+Alx Higher Level Programming with python and Javascript
